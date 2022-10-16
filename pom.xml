@@ -12,7 +12,7 @@
         <exec.mainClass>main.SentenciaSwitch</exec.mainClass>
     </properties>
     
-               <build>
+    <build>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
